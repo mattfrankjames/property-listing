@@ -1,0 +1,2190 @@
+[
+  {
+    "address": "437 Putnam Ave #RES-2",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 2,
+        "name": "hardwood floors"
+      },
+      {
+        "id": 12,
+        "name": "laundry in unit"
+      },
+      {
+        "id": 13,
+        "name": "additional storage"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 103,
+        "name": "stainless steel appliances"
+      },
+      {
+        "id": 157,
+        "name": "wood floors"
+      },
+      {
+        "id": 217,
+        "name": "recessed lighting"
+      },
+      {
+        "id": 487,
+        "name": "open kitchen"
+      },
+      {
+        "id": 632,
+        "name": "windowed kitchen"
+      },
+      {
+        "id": 786,
+        "name": "abundant closets"
+      },
+      {
+        "id": 1048,
+        "name": "refrigerator"
+      },
+      {
+        "id": 2926,
+        "name": "split bedrooms"
+      },
+      {
+        "id": 3346,
+        "name": "new appliances"
+      },
+      {
+        "id": 3385,
+        "name": "custom closet"
+      },
+      {
+        "id": 5405,
+        "name": "oven"
+      },
+      {
+        "id": 9829,
+        "name": "original-details"
+      },
+      {
+        "id": 9836,
+        "name": "high-ceiling"
+      },
+      {
+        "id": 9863,
+        "name": "exposed-brick"
+      },
+      {
+        "id": 10802,
+        "name": "ac: central"
+      }
+    ],
+    "display_address": "437 Putnam Ave",
+    "display_status": "available",
+    "exclusive": true,
+    "id": 974439,
+    "listed_date": "2020-09-27",
+    "listing_id": 974439,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 835000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "building": {
+        "amenities": [
+          {
+            "id": 101,
+            "name": "walk-up"
+          },
+          {
+            "id": 590,
+            "name": "voice intercom"
+          }
+        ],
+        "cross_streets": [
+          "Throop Avenue",
+          "Tompkins Avenue"
+        ],
+        "dyn_images": [],
+        "full_address": "437 Putnam Ave, Bedford-Stuyvesant, Brooklyn, NY 11221, USA",
+        "name": null,
+        "neighborhood_address": "Bedford-Stuyvesant, Brooklyn, NY 11221",
+        "position": {
+          "latitude": 40.6850042878804,
+          "longitude": -73.9435789258891
+        },
+        "region": {
+          "address_parts": [
+            "Bedford-Stuyvesant",
+            "Brooklyn",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/300-Brooklyn.jpg",
+          "text": "Bedford-Stuyvesant, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_7_fp",
+          "order": 7,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2601393_6",
+          "order": 6,
+          "type": "Photo"
+        }
+      ],
+      "id": 2601393,
+      "number": "RES-2",
+      "surface": 827
+    },
+    "url_slug": "974439-Putnam-Ave-RES-2-Bedford-Stuyvesant-Brooklyn-NY-11221",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "85-05 85th St",
+    "agents": [],
+    "amenities": [],
+    "display_address": "85-05 85th St",
+    "display_status": "available",
+    "exclusive": true,
+    "id": 987827,
+    "listed_date": "2020-07-17",
+    "listing_id": 987827,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 579000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 101,
+            "name": "walk-up"
+          },
+          {
+            "id": 10200,
+            "name": "none"
+          }
+        ],
+        "cross_streets": [
+          "85th Road",
+          "Park Lane South"
+        ],
+        "dyn_images": [],
+        "full_address": "85-05 85th St, Woodhaven, Queens, NY 11421, USA",
+        "name": null,
+        "neighborhood_address": "Woodhaven, Queens, NY 11421",
+        "position": {
+          "latitude": 40.695875,
+          "longitude": -73.859746
+        },
+        "region": {
+          "address_parts": [
+            "Woodhaven",
+            "Queens",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/400-Queens.jpg",
+          "text": "Woodhaven, New York City"
+        },
+        "type": "single-family"
+      },
+      "dyn_floorplans": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_20_fp",
+          "order": 20,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_6",
+          "order": 6,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_7",
+          "order": 7,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_8",
+          "order": 8,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_9",
+          "order": 9,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_10",
+          "order": 10,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_11",
+          "order": 11,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_12",
+          "order": 12,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_13",
+          "order": 13,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_14",
+          "order": 14,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_15",
+          "order": 15,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_16",
+          "order": 16,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_17",
+          "order": 17,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_18",
+          "order": 18,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1889222_19",
+          "order": 19,
+          "type": "Photo"
+        }
+      ],
+      "id": 1889222,
+      "number": "",
+      "surface": 1333
+    },
+    "url_slug": "987827-85-05-85th-St--Woodhaven-Queens-NY-11421",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "340 E 64th St #16-M",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 9830,
+        "name": "dining-area"
+      },
+      {
+        "id": 9837,
+        "name": "powder-room"
+      }
+    ],
+    "display_address": "340 E 64th St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987844,
+    "listed_date": "2020-07-16",
+    "listing_id": 987844,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 1650000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1.5,
+      "bedrooms": 2,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 166,
+            "name": "parking"
+          },
+          {
+            "id": 178,
+            "name": "pool"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10820,
+            "name": "full service"
+          }
+        ],
+        "cross_streets": [
+          "Second Avenue",
+          "First Avenue"
+        ],
+        "dyn_images": [
+          {
+            "description": null,
+            "extension": "img",
+            "key": "building_2506_0",
+            "order": 0,
+            "type": "Photo"
+          },
+          {
+            "description": null,
+            "extension": "img",
+            "key": "building_2506_1",
+            "order": 1,
+            "type": "Photo"
+          }
+        ],
+        "full_address": "340 E 64th St, Lenox Hill, Manhattan, NY 10065, USA",
+        "name": "The St. Tropez",
+        "neighborhood_address": "Lenox Hill, Manhattan, NY 10065",
+        "position": {
+          "latitude": 40.7631950378418,
+          "longitude": -73.9611358642578
+        },
+        "region": {
+          "address_parts": [
+            "Lenox Hill",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Lenox Hill, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_12_fp",
+          "order": 12,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_6",
+          "order": 6,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_7",
+          "order": 7,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_8",
+          "order": 8,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_9",
+          "order": 9,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_10",
+          "order": 10,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2015063_11",
+          "order": 11,
+          "type": "Photo"
+        }
+      ],
+      "id": 2015063,
+      "number": "16-M",
+      "surface": 1255
+    },
+    "url_slug": "987844-E-64th-St-16-M-Lenox-Hill-Manhattan-NY-10065",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "350 W 50th St #25-A",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 8936,
+        "name": "walk-in-closet"
+      },
+      {
+        "id": 9858,
+        "name": "passthrough-kitchen"
+      },
+      {
+        "id": 9864,
+        "name": "murphy-bed"
+      }
+    ],
+    "display_address": "350 W 50th St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987698,
+    "listed_date": "2020-07-16",
+    "listing_id": 987698,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 720000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 0,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 166,
+            "name": "parking"
+          },
+          {
+            "id": 178,
+            "name": "pool"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10820,
+            "name": "full service"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "Ninth Avenue",
+          "Eighth Avenue"
+        ],
+        "dyn_images": [
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_429_0",
+            "order": 0,
+            "type": "Photo"
+          },
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_429_1",
+            "order": 1,
+            "type": "Photo"
+          },
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_429_2",
+            "order": 2,
+            "type": "Photo"
+          }
+        ],
+        "full_address": "350 W 50th St, Hell's Kitchen, Manhattan, NY 10019, USA",
+        "name": "Worldwide Plaza 2",
+        "neighborhood_address": "Hell's Kitchen, Manhattan, NY 10019",
+        "position": {
+          "latitude": 40.7627334594727,
+          "longitude": -73.9875259399414
+        },
+        "region": {
+          "address_parts": [
+            "Hell's Kitchen",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Hell's Kitchen, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_6",
+          "order": 6,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_7",
+          "order": 7,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_8",
+          "order": 8,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_9",
+          "order": 9,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_10",
+          "order": 10,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1571929_11",
+          "order": 11,
+          "type": "Photo"
+        }
+      ],
+      "id": 1571929,
+      "number": "25-A",
+      "surface": null
+    },
+    "url_slug": "987698-W-50th-St-25-A-Hells-Kitchen-Manhattan-NY-10019",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "555 W 23rd St #S-11Q",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 2,
+        "name": "hardwood floors"
+      },
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 9835,
+        "name": "abundant-closets"
+      },
+      {
+        "id": 9839,
+        "name": "eatin-kitchen"
+      },
+      {
+        "id": 9842,
+        "name": "open-kitchen"
+      },
+      {
+        "id": 9853,
+        "name": "treatment-windows"
+      }
+    ],
+    "display_address": "555 W 23rd St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987677,
+    "listed_date": "2020-07-16",
+    "listing_id": 987677,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 899000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 166,
+            "name": "parking"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10820,
+            "name": "full service"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "Eleventh Avenue",
+          "Tenth Avenue"
+        ],
+        "dyn_images": [
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_1938_0",
+            "order": 0,
+            "type": "Photo"
+          },
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_1938_1",
+            "order": 1,
+            "type": "Photo"
+          }
+        ],
+        "full_address": "555 W 23rd St, West Chelsea, Manhattan, NY 10011, USA",
+        "name": null,
+        "neighborhood_address": "West Chelsea, Manhattan, NY 10011",
+        "position": {
+          "latitude": 40.7481727600098,
+          "longitude": -74.0049438476563
+        },
+        "region": {
+          "address_parts": [
+            "West Chelsea",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "West Chelsea, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [
+        {
+          "description": "Floorplan",
+          "extension": "jpeg",
+          "key": "unit_2203699_6_fp",
+          "order": 6,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpg",
+          "key": "unit_2203699_5",
+          "order": 5,
+          "type": "Photo"
+        }
+      ],
+      "id": 2203699,
+      "number": "S-11Q",
+      "surface": 635
+    },
+    "url_slug": "987677-W-23rd-St-S-11Q-West-Chelsea-Manhattan-NY-10011",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "160 W End Ave #2-P",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 16,
+        "name": "microwave"
+      },
+      {
+        "id": 103,
+        "name": "stainless steel appliances"
+      },
+      {
+        "id": 115,
+        "name": "wic"
+      },
+      {
+        "id": 145,
+        "name": "dining alcove"
+      },
+      {
+        "id": 157,
+        "name": "wood floors"
+      },
+      {
+        "id": 786,
+        "name": "abundant closets"
+      },
+      {
+        "id": 1048,
+        "name": "refrigerator"
+      },
+      {
+        "id": 1219,
+        "name": "gourmet kitchen"
+      },
+      {
+        "id": 3157,
+        "name": "parquet floors"
+      },
+      {
+        "id": 3257,
+        "name": "entry foyer"
+      },
+      {
+        "id": 3346,
+        "name": "new appliances"
+      },
+      {
+        "id": 10350,
+        "name": "walk through"
+      },
+      {
+        "id": 10802,
+        "name": "ac: central"
+      }
+    ],
+    "display_address": "160 W End Ave",
+    "display_status": "available",
+    "exclusive": true,
+    "id": 987608,
+    "listed_date": "2020-07-16",
+    "listing_id": 987608,
+    "listing_type": "exclusive",
+    "open_houses": [
+      {
+        "appointment_only": false,
+        "broker_only": false,
+        "date": "2020-07-19",
+        "end_time": "14:30:00",
+        "listing_id": 987608,
+        "start_time": "13:00:00"
+      }
+    ],
+    "price": 975000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10820,
+            "name": "full service"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "West 70th Street",
+          "West 66th Street"
+        ],
+        "dyn_images": [
+          {
+            "description": null,
+            "extension": "img",
+            "key": "building_996_0",
+            "order": 0,
+            "type": "Photo"
+          },
+          {
+            "description": null,
+            "extension": "img",
+            "key": "building_996_1",
+            "order": 1,
+            "type": "Photo"
+          }
+        ],
+        "full_address": "160 W End Ave, Lincoln Square, Manhattan, NY 10023, USA",
+        "name": "Lincoln Towers",
+        "neighborhood_address": "Lincoln Square, Manhattan, NY 10023",
+        "position": {
+          "latitude": 40.7764701843262,
+          "longitude": -73.986701965332
+        },
+        "region": {
+          "address_parts": [
+            "Lincoln Square",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Lincoln Square, New York City"
+        },
+        "type": "co-op"
+      },
+      "dyn_floorplans": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_5_fp",
+          "order": 5,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2858709_4",
+          "order": 4,
+          "type": "Photo"
+        }
+      ],
+      "id": 2858709,
+      "number": "2-P",
+      "surface": 969
+    },
+    "url_slug": "987608-W-End-Ave-2-P-Lincoln-Square-Manhattan-NY-10023",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "404 E 79th St #6-B",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 9833,
+        "name": "entry-foyer"
+      },
+      {
+        "id": 9834,
+        "name": "windowed-kitchen"
+      },
+      {
+        "id": 9835,
+        "name": "abundant-closets"
+      }
+    ],
+    "display_address": "404 E 79th St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987571,
+    "listed_date": "2020-07-16",
+    "listing_id": 987571,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 839000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 166,
+            "name": "parking"
+          },
+          {
+            "id": 178,
+            "name": "pool"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10820,
+            "name": "full service"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "First Avenue",
+          "York Avenue"
+        ],
+        "dyn_images": [],
+        "full_address": "404 E 79th St, Lenox Hill, Manhattan, NY 10075, USA",
+        "name": "Hampton House",
+        "neighborhood_address": "Lenox Hill, Manhattan, NY 10075",
+        "position": {
+          "latitude": 40.7720909118652,
+          "longitude": -73.9524536132813
+        },
+        "region": {
+          "address_parts": [
+            "Lenox Hill",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Lenox Hill, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2026921_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2026921_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2026921_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2026921_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2026921_4",
+          "order": 4,
+          "type": "Photo"
+        }
+      ],
+      "id": 2026921,
+      "number": "6-B",
+      "surface": null
+    },
+    "url_slug": "987571-E-79th-St-6-B-Lenox-Hill-Manhattan-NY-10075",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "15 Jones St #1-B",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      }
+    ],
+    "display_address": "15 Jones St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987569,
+    "listed_date": "2020-07-16",
+    "listing_id": 987569,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 640000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 590,
+            "name": "voice intercom"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "West 4th Street",
+          "Bleecker Street"
+        ],
+        "dyn_images": [],
+        "full_address": "15 Jones St, West Village, Manhattan, NY 10014, USA",
+        "name": null,
+        "neighborhood_address": "West Village, Manhattan, NY 10014",
+        "position": {
+          "latitude": 40.7323150634766,
+          "longitude": -74.002082824707
+        },
+        "region": {
+          "address_parts": [
+            "West Village",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "West Village, New York City"
+        },
+        "type": "co-op"
+      },
+      "dyn_floorplans": [],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1576212_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1576212_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1576212_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1576212_3",
+          "order": 3,
+          "type": "Photo"
+        }
+      ],
+      "id": 1576212,
+      "number": "1-B",
+      "surface": null
+    },
+    "url_slug": "987569-Jones-St-1-B-West-Village-Manhattan-NY-10014",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "160 Henry St #PH",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 12,
+        "name": "laundry in unit"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 436,
+        "name": "fireplace"
+      },
+      {
+        "id": 6323,
+        "name": "oversized-windows"
+      },
+      {
+        "id": 8936,
+        "name": "walk-in-closet"
+      },
+      {
+        "id": 9827,
+        "name": "home-office"
+      },
+      {
+        "id": 9829,
+        "name": "original-details"
+      },
+      {
+        "id": 9832,
+        "name": "library-or-den"
+      },
+      {
+        "id": 9833,
+        "name": "entry-foyer"
+      },
+      {
+        "id": 9839,
+        "name": "eatin-kitchen"
+      },
+      {
+        "id": 9840,
+        "name": "gallery"
+      },
+      {
+        "id": 9846,
+        "name": "solarium-greenhouse"
+      },
+      {
+        "id": 9847,
+        "name": "french-doors"
+      }
+    ],
+    "display_address": "160 Henry St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987566,
+    "listed_date": "2020-07-16",
+    "listing_id": 987566,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 7250000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 4,
+      "bedrooms": 4,
+      "building": {
+        "amenities": [
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10819,
+            "name": "full-time doorman"
+          }
+        ],
+        "cross_streets": [
+          "Pierrepont Street",
+          "Love Lane"
+        ],
+        "dyn_images": [],
+        "full_address": "160 Henry St, Brooklyn Heights, Brooklyn, NY 11201, USA",
+        "name": null,
+        "neighborhood_address": "Brooklyn Heights, Brooklyn, NY 11201",
+        "position": {
+          "latitude": 40.6957893371582,
+          "longitude": -73.9939651489258
+        },
+        "region": {
+          "address_parts": [
+            "Brooklyn Heights",
+            "Brooklyn",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/300-Brooklyn.jpg",
+          "text": "Brooklyn Heights, New York City"
+        },
+        "type": "co-op"
+      },
+      "dyn_floorplans": [
+        {
+          "description": "PICTUREef",
+          "extension": "gif",
+          "key": "unit_1600384_12_fp",
+          "order": 12,
+          "type": "Floor plan"
+        },
+        {
+          "description": "PICTUREd9",
+          "extension": "gif",
+          "key": "unit_1600384_13_fp",
+          "order": 13,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": "PICTUREb6",
+          "extension": "jpeg",
+          "key": "unit_1600384_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTUREa1",
+          "extension": "jpeg",
+          "key": "unit_1600384_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE01",
+          "extension": "jpeg",
+          "key": "unit_1600384_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTUREb3",
+          "extension": "jpeg",
+          "key": "unit_1600384_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE4b",
+          "extension": "jpeg",
+          "key": "unit_1600384_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTUREb6",
+          "extension": "jpeg",
+          "key": "unit_1600384_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTUREdf",
+          "extension": "jpeg",
+          "key": "unit_1600384_6",
+          "order": 6,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE24",
+          "extension": "jpeg",
+          "key": "unit_1600384_7",
+          "order": 7,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE9f",
+          "extension": "jpeg",
+          "key": "unit_1600384_8",
+          "order": 8,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE52",
+          "extension": "jpeg",
+          "key": "unit_1600384_9",
+          "order": 9,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTURE11",
+          "extension": "jpeg",
+          "key": "unit_1600384_10",
+          "order": 10,
+          "type": "Photo"
+        },
+        {
+          "description": "PICTUREcc",
+          "extension": "jpeg",
+          "key": "unit_1600384_11",
+          "order": 11,
+          "type": "Photo"
+        }
+      ],
+      "id": 1600384,
+      "number": "PH",
+      "surface": null
+    },
+    "url_slug": "987566-Henry-St-PH-Brooklyn-Heights-Brooklyn-NY-11201",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "570 Grand St #H-1301",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      }
+    ],
+    "display_address": "570 Grand St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987564,
+    "listed_date": "2020-07-16",
+    "listing_id": 987564,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 795000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10818,
+            "name": "concierge"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "Fdr Drive",
+          "Lewis Street"
+        ],
+        "dyn_images": [],
+        "full_address": "570 Grand St, Lower East Side, Manhattan, NY 10002, USA",
+        "name": null,
+        "neighborhood_address": "Lower East Side, Manhattan, NY 10002",
+        "position": {
+          "latitude": 40.7138481140137,
+          "longitude": -73.9774475097656
+        },
+        "region": {
+          "address_parts": [
+            "Lower East Side",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Lower East Side, New York City"
+        },
+        "type": "co-op"
+      },
+      "dyn_floorplans": [],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1600148_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1600148_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_1600148_2",
+          "order": 2,
+          "type": "Photo"
+        }
+      ],
+      "id": 1600148,
+      "number": "H-1301",
+      "surface": null
+    },
+    "url_slug": "987564-Grand-St-H-1301-Lower-East-Side-Manhattan-NY-10002",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "45 W 89th St #4-FR",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 12,
+        "name": "laundry in unit"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 1636,
+        "name": "skylight"
+      },
+      {
+        "id": 8936,
+        "name": "walk-in-closet"
+      },
+      {
+        "id": 9827,
+        "name": "home-office"
+      },
+      {
+        "id": 9829,
+        "name": "original-details"
+      },
+      {
+        "id": 9835,
+        "name": "abundant-closets"
+      },
+      {
+        "id": 9836,
+        "name": "high-ceiling"
+      },
+      {
+        "id": 9858,
+        "name": "passthrough-kitchen"
+      },
+      {
+        "id": 9863,
+        "name": "exposed-brick"
+      }
+    ],
+    "display_address": "45 W 89th St",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987563,
+    "listed_date": "2020-07-16",
+    "listing_id": 987563,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 1350000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "building": {
+        "amenities": [
+          {
+            "id": 101,
+            "name": "walk-up"
+          },
+          {
+            "id": 590,
+            "name": "voice intercom"
+          }
+        ],
+        "cross_streets": [
+          "Columbus Avenue",
+          "Central Park West"
+        ],
+        "dyn_images": [],
+        "full_address": "45 W 89th St, Upper West Side, Manhattan, NY 10024, USA",
+        "name": null,
+        "neighborhood_address": "Upper West Side, Manhattan, NY 10024",
+        "position": {
+          "latitude": 40.7878913879395,
+          "longitude": -73.9691467285156
+        },
+        "region": {
+          "address_parts": [
+            "Upper West Side",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Upper West Side, New York City"
+        },
+        "type": "co-op"
+      },
+      "dyn_floorplans": [
+        {
+          "description": "Floorplan",
+          "extension": "jpeg",
+          "key": "unit_2037062_5_fp",
+          "order": 5,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2037062_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2037062_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2037062_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2037062_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_2037062_4",
+          "order": 4,
+          "type": "Photo"
+        }
+      ],
+      "id": 2037062,
+      "number": "4-FR",
+      "surface": null
+    },
+    "url_slug": "987563-W-89th-St-4-FR-Upper-West-Side-Manhattan-NY-10024",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  },
+  {
+    "address": "372 Central Park W #7-W",
+    "agents": [],
+    "amenities": [
+      {
+        "id": 11,
+        "name": "private outdoor space"
+      },
+      {
+        "id": 15,
+        "name": "dishwasher"
+      },
+      {
+        "id": 8936,
+        "name": "walk-in-closet"
+      },
+      {
+        "id": 9830,
+        "name": "dining-area"
+      },
+      {
+        "id": 9833,
+        "name": "entry-foyer"
+      },
+      {
+        "id": 9835,
+        "name": "abundant-closets"
+      },
+      {
+        "id": 9839,
+        "name": "eatin-kitchen"
+      }
+    ],
+    "display_address": "372 Central Park W",
+    "display_status": "available",
+    "exclusive": false,
+    "id": 987561,
+    "listed_date": "2020-07-16",
+    "listing_id": 987561,
+    "listing_type": "exclusive",
+    "open_houses": [],
+    "price": 1295000,
+    "price_change": null,
+    "private": null,
+    "status": "available",
+    "type": "SALE",
+    "unit": {
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "building": {
+        "amenities": [
+          {
+            "id": 5,
+            "name": "laundry in building"
+          },
+          {
+            "id": 6,
+            "name": "gym"
+          },
+          {
+            "id": 19,
+            "name": "elevator"
+          },
+          {
+            "id": 71,
+            "name": "doorman"
+          },
+          {
+            "id": 166,
+            "name": "parking"
+          },
+          {
+            "id": 7275,
+            "name": "public outdoor space"
+          },
+          {
+            "id": 10818,
+            "name": "concierge"
+          },
+          {
+            "id": 10882,
+            "name": "garden"
+          }
+        ],
+        "cross_streets": [
+          "West 98th Street",
+          "West 97th Street"
+        ],
+        "dyn_images": [
+          {
+            "description": null,
+            "extension": "jpeg",
+            "key": "building_2359_0",
+            "order": 0,
+            "type": "Photo"
+          }
+        ],
+        "full_address": "372 Central Park W, Upper West Side, Manhattan, NY 10025, USA",
+        "name": "The Vaux",
+        "neighborhood_address": "Upper West Side, Manhattan, NY 10025",
+        "position": {
+          "latitude": 40.7923927307129,
+          "longitude": -73.9641723632813
+        },
+        "region": {
+          "address_parts": [
+            "Upper West Side",
+            "Manhattan",
+            "NY"
+          ],
+          "locality_scope": "ny:nyc",
+          "picture": "/static/images/regions/100-Manhattan.jpg",
+          "text": "Upper West Side, New York City"
+        },
+        "type": "condo"
+      },
+      "dyn_floorplans": [
+        {
+          "description": "Floorplan",
+          "extension": "jpeg",
+          "key": "unit_915926_7_fp",
+          "order": 7,
+          "type": "Floor plan"
+        }
+      ],
+      "dyn_images": [
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_0",
+          "order": 0,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_1",
+          "order": 1,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_2",
+          "order": 2,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_3",
+          "order": 3,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_4",
+          "order": 4,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_5",
+          "order": 5,
+          "type": "Photo"
+        },
+        {
+          "description": null,
+          "extension": "jpeg",
+          "key": "unit_915926_6",
+          "order": 6,
+          "type": "Photo"
+        }
+      ],
+      "id": 915926,
+      "number": "7-W",
+      "surface": 823
+    },
+    "url_slug": "987561-Central-Park-W-7-W-Upper-West-Side-Manhattan-NY-10025",
+    "video_provider": null,
+    "video_url": null,
+    "virtual_tour_url": null
+  }
+]
