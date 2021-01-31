@@ -171,8 +171,10 @@
   }
   .visible,
   label {
+    background: white;
     display: grid;
     grid-template-rows: repeat(2, 1fr);
+    z-index: 5;
   }
   .visible {
     background: white;
