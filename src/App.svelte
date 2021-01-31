@@ -1,5 +1,4 @@
 <script>
-  import { onMount } from 'svelte';
   import Card from './components/Card.svelte';
   import Header from './components/Header.svelte';
   import Filters from './components/Filters.svelte';
@@ -13,14 +12,21 @@
   $: lng = '';
 
   let filterValue;
-  $: properties = getProperties();
+  $: properties = fetchProperties();
+  let fullListings;
 
   async function handleEvent(filter, upper) {
-    properties = getProperties(filter, upper);
+    properties = fullListings;
+    properties = filterProperties(filter, upper);
   }
-  async function getProperties(filter, upper) {
+  async function fetchProperties() {
     const res = await fetch('/properties.json');
-    const properties = await res.json();
+    const listings = await res.json();
+    properties = await listings;
+    fullListings = await listings;
+  }
+
+  async function filterProperties(filter, upper) {
     if (filter === 'descending') {
       return properties.sort((a, b) => b.price - a.price);
     } else if (filter === 'ascending') {
@@ -30,10 +36,9 @@
     } else if (filter && upper) {
       return properties.filter((property) => property.price >= filter && property.price <= upper);
     }
-    return properties;
   }
-  function reset() {
-    properties = getProperties();
+  function showAllListings() {
+    properties = fullListings;
   }
   function setCoords(latitude, longitude) {
     lat = latitude;
@@ -80,16 +85,23 @@
   <button class="button--simple" on:click={() => handleEvent('ascending')}
     >Filter Low to High</button
   >
-  <button class="button--simple" on:click={reset}>Reset Filters</button>
+  <button class="button--simple" on:click={showAllListings}>Show All Listings</button>
 </div>
 <div class="content-wrap">
   <main>
     {#await properties}
       Loading...
     {:then data}
+      <h4>Click a property to see its location</h4>
       <div class="grid">
         {#each data as property}
-          <div>
+          <button
+            class="property__button"
+            on:click={setCoords(
+              property.unit.building.position.latitude,
+              property.unit.building.position.longitude
+            )}
+          >
             <Card
               address={property.display_address}
               region={property.unit.building.region.text}
@@ -102,15 +114,8 @@
               imgExtension={property.unit.dyn_images[0].extension}
               latitude={property.unit.building.position.latitude}
               longitude={property.unit.building.position.longitude}
-            />
-            <button
-              on:click={setCoords(
-                property.unit.building.position.latitude,
-                property.unit.building.position.longitude
-              )}
-              class="button--simple">See location</button
-            >
-          </div>
+            /></button
+          >
         {/each}
       </div>
     {/await}
@@ -119,7 +124,7 @@
     {#if ready && lat && lng}
       <Map {lat} {lng} />
     {:else}
-      <strong>No map loaded</strong>
+      <strong>No map loaded, click a property</strong>
     {/if}
   </aside>
 </div>
@@ -130,6 +135,9 @@
     width: 95%;
     max-width: 1650px;
     margin: 0 auto;
+  }
+  h4 {
+    margin-top: 0;
   }
   .grid {
     display: grid;
@@ -143,13 +151,11 @@
     background: none;
     padding-right: 6px;
   }
-  .content-wrap {
-    display: grid;
-    grid-template-columns: minmax(400px, 3fr) 300px;
-  }
+
   .filter-list {
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
+    flex-direction: column;
     padding: 14px 24px;
     position: relative;
   }
@@ -171,5 +177,28 @@
   }
   [type='submit'] {
     text-align: center;
+  }
+  .property__button {
+    padding: 0;
+    text-align: left;
+    border: none;
+  }
+  aside {
+    width: 100%;
+    height: 100vh;
+  }
+  @media (min-width: 975px) {
+    .content-wrap {
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+    }
+    .filter-list {
+      flex-direction: row;
+      align-items: stretch;
+    }
+    aside {
+      height: 50%;
+      padding-top: 43px;
+    }
   }
 </style>

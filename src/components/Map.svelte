@@ -3,10 +3,9 @@
   let container;
   $: map = '';
   let zoom = 15;
-  let center = { lat, lng };
+  $: center = { lat, lng };
   import { afterUpdate } from 'svelte';
   afterUpdate(async () => {
-    console.log(center);
     map = new google.maps.Map(container, {
       zoom,
       center,

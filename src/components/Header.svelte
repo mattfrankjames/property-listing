@@ -35,11 +35,13 @@
   @media (min-width: 975px) {
     header {
       display: flex;
+      text-align: initial;
     }
   }
   header {
     font-size: 14px;
     padding: 14px 24px;
+    text-align: center;
   }
   a {
     color: #404040;
