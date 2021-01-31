@@ -7,13 +7,6 @@
     /></a
   >
   <div class="nav__nested">
-    <div id="headerLocalitySelector">
-      <select
-        data-bind="options: localities, optionsText: 'text', optionsValue: 'id', value: selectedLocality"
-        ><option value="ny:nyc">New York</option><option value="nj:hudson">New Jersey</option
-        ></select
-      >
-    </div>
     <ul class="main-menu">
       <li><a href="#">Buy</a></li>
       <li><a href="/sell">Sell</a></li>

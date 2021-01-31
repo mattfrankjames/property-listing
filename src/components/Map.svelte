@@ -3,6 +3,7 @@
   let container;
   $: map = '';
   let zoom = 15;
+  // set map center to lat, lng props
   $: center = { lat, lng };
   import { afterUpdate } from 'svelte';
   afterUpdate(async () => {

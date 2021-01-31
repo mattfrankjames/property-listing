@@ -16,6 +16,7 @@
   let fullListings;
 
   async function handleEvent(filter, upper) {
+    // set properties to fullListings for repeat filtering
     properties = fullListings;
     properties = filterProperties(filter, upper);
   }
@@ -23,6 +24,7 @@
     const res = await fetch('/properties.json');
     const listings = await res.json();
     properties = await listings;
+    // make a copy of listings for filtering. Avoids repeat fetch()
     fullListings = await listings;
   }
 
@@ -38,6 +40,7 @@
     }
   }
   function showAllListings() {
+    // set properties back to copy
     properties = fullListings;
   }
   function setCoords(latitude, longitude) {
@@ -55,7 +58,9 @@
 >
 <Header />
 <div class="filter-list">
-  <button class="button--caret" on:click={() => (visible = !visible)}>Price</button>
+  <button class="button--caret" on:click={() => (visible = !visible)}
+    >{visible ? 'Close' : 'Price'}</button
+  >
   <form
     class={visible ? 'visible' : ''}
     on:submit|preventDefault={handleEvent(lowerLimit, upperLimit)}

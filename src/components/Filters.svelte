@@ -18,7 +18,7 @@
 </script>
 
 <div class="filters">
-  <button on:click={() => (visible = !visible)}>Bedrooms</button>
+  <button on:click={() => (visible = !visible)}>{visible ? 'Close' : 'Bedrooms'}</button>
   <div class={'filters__options ' + (visible ? 'visible' : '')}>
     <button on:click={setValue(0)}>Studio</button>
     <button on:click={setValue(1)}>1</button>
