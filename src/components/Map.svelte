@@ -1,9 +1,10 @@
 <script>
   export let lat, lng;
+  // target for map
   let container;
   $: map = '';
   let zoom = 15;
-  // set map center to lat, lng props
+  // set map center to lat, lng props, allow for reactivirty
   $: center = { lat, lng };
   import { afterUpdate } from 'svelte';
   afterUpdate(async () => {

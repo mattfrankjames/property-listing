@@ -12,6 +12,7 @@
       submit();
     };
   }
+  // pass submit event to App
   function submit() {
     dispatch('submit');
   }

@@ -3,6 +3,8 @@
   import Header from './components/Header.svelte';
   import Filters from './components/Filters.svelte';
   import Map from './components/Map.svelte';
+
+  // Will not run Google Maps script until this is 'true'
   export let ready;
 
   let visible = false;

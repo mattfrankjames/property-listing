@@ -7,6 +7,7 @@ const app = new App({
   },
 });
 
+// Tells the window when Google maps script is ready
 window.initMap = function ready() {
   app.$set({ ready: true });
 };
