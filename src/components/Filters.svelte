@@ -31,10 +31,14 @@
 
 <style>
   button {
+    border: 0;
     padding-right: 24px;
     margin: 0;
     height: 100%;
     width: 100%;
+  }
+  button:hover {
+    color: var(--brand-primary);
   }
   .filters {
     font-size: 14px;

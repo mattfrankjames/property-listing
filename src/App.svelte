@@ -152,7 +152,11 @@
     gap: 0.5em;
   }
   .button--caret {
+    border: 0;
     padding-right: 24px;
+  }
+  .button--caret:hover {
+    color: var(--brand-primary);
   }
   .button--simple {
     background: none;
